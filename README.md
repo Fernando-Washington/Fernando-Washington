@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Fernando-Washington"></a>
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=fernando-washington&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-washington&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img loading="lazy" height="160em" src="https://raw.githubusercontent.com/Fernando-Washington/Fernando-Washington/output/github-stats.svg"/> 
+  <img loading="lazy" height="160em" src="https://raw.githubusercontent.com/Fernando-Washington/Fernando-Washington/output/github-top-langs.svg"/>
 </div>
 
 <div align="center">
